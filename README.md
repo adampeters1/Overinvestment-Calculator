@@ -1,5 +1,6 @@
 # Overinvestment-Calculator
-### Python program that calculates overinvested companies using Linear Regression.
+## Python program that calculates overinvested companies using Linear Regression.
+### Jupyter Notebook | Source code | Overinvestment-Calculator.ipynb
 
  Uses Linear Regression to calculate the overinvested companies.
  The optimal LR model gradient is determined via gradient descent, the model is then evaluated by K-Fold-Cross validation and given a r2 score.
